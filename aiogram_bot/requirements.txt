@@ -1,0 +1,3 @@
+aiogram 
+redis 
+neo4j
